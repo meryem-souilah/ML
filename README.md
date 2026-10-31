@@ -31,6 +31,4 @@ streamlit run app.py
 | `app.py` | Tableau de bord Streamlit |
 | `final_model.pkl`, `categories.pkl` | Modèle entraîné et catégories utilisées par l'app |
 
-## Auteure
 
-**Meryem Souilah** — [LinkedIn](https://www.linkedin.com/in/souilah-meryem) · [Portfolio](https://meryem-souilah.github.io/My-Portfolio/)
